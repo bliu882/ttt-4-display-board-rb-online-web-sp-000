@@ -8,3 +8,4 @@ def display_board
   puts "-----------"
   puts "[6]|[7]|[8]"
 end
+display_board(board)
